@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21009d"],{b5d8:function(n){n.exports=JSON.parse('{"kanji":"玲","strokeOrder":"/strokes/玲.png","info":{"on":"レイ","meaning":"sound of jewels","examples":[{"word":"八面玲瓏","reading":"はちめんれいろう","meaning":"beautiful from all sides, perfect serenity, affability"},{"word":"玲瓏","reading":"れいろう","meaning":"clear, translucent, brilliant, sweetly ringing (as the tinklings of jade)"},{"word":"玲玲","reading":"れいれい","meaning":"tinkling of jades"}]}}')}}]);
+//# sourceMappingURL=chunk-2d21009d.js.map

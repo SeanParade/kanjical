@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b1637"],{2047:function(n){n.exports=JSON.parse('{"kanji":"亞","strokeOrder":"/strokes/亞.png","info":{"kun":"つ.ぐ","on":"ア","meaning":"rank, follow","examples":[{"word":"東亞","reading":"とうあ","meaning":"East Asia, the Orient"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0b1637.js.map

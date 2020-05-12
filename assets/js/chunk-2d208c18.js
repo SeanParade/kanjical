@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d208c18"],{a5c1:function(n){n.exports=JSON.parse('{"kanji":"瘦","strokeOrder":"/strokes/瘦.png","info":{"kun":"やせ.る","on":"ソウ, チュウ, シュウ, チュ","meaning":"thin, emaciated, lean, meager","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d208c18.js.map

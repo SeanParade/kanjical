@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d0630"],{6880:function(n){n.exports=JSON.parse('{"kanji":"橙","strokeOrder":"/strokes/橙.png","info":{"kun":"だいだい","on":"トウ","meaning":"bitter orange","examples":[{"word":"橙","reading":"だいだい, ダイダイ","meaning":"bitter orange (Citrus aurantium)"},{"word":"橙色","reading":"だいだいいろ","meaning":"orange-colored, orange-coloured"},{"word":"橙皮油","reading":"とうひゆ","meaning":"orange-peel oil"},{"word":"文橙","reading":"ぶんたん","meaning":"shaddock, pomelo"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0d0630.js.map

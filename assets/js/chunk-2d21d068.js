@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21d068"],{d017:function(e){e.exports=JSON.parse('{"kanji":"裝","strokeOrder":"/strokes/裝.png","info":{"kun":"よそお.う, よそお.い","on":"ソウ, ショウ","meaning":"dress, pretend, disguise, profess","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d21d068.js.map

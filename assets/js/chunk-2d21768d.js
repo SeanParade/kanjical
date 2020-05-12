@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21768d"],{c736:function(n){n.exports=JSON.parse('{"kanji":"氣","strokeOrder":"/strokes/氣.png","info":{"kun":"いき","on":"キ, ケ","meaning":"spirit, mind, air, atmosphere, mood","examples":[{"word":"氣儘","reading":"きまま","meaning":"willful, wilful, selfish, selfishness, one\'s own way"},{"word":"靈氣","reading":"れいき","meaning":"Reiki (healing method)"},{"word":"合氣道","reading":"あいきどう","meaning":"aikido"}]}}')}}]);
+//# sourceMappingURL=chunk-2d21768d.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2132cb"],{ac0c:function(n){n.exports=JSON.parse('{"kanji":"湊","strokeOrder":"/strokes/湊.png","info":{"kun":"みなと, あつ.まる","on":"ソウ","meaning":"port, harbor","examples":[{"word":"湊","reading":"みなと","meaning":"harbour, harbor, port"},{"word":"輻湊","reading":"ふくそう","meaning":"congestion (e.g. traffic), overcrowding; convergence (esp. optical)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d2132cb.js.map

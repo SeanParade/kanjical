@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c0caf"],{"42fa":function(n){n.exports=JSON.parse('{"kanji":"俣","strokeOrder":"/strokes/俣.png","info":{"kun":"また","meaning":"crotch, thigh, groin, (kokuji)","examples":[{"word":"水俣病","reading":"みなまたびょう","meaning":"Minamata disease"},{"word":"俣","reading":"また","meaning":"crotch, crutch, groin, thigh; fork (in a tree, road, river, etc.), tines (of a fork)"},{"word":"二俣","reading":"ふたまた","meaning":"bifurcation; parting of the ways; two-timing"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0c0caf.js.map

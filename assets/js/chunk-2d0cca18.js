@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cca18"],{"4f6f":function(n){n.exports=JSON.parse('{"kanji":"雜","strokeOrder":"/strokes/雜.png","info":{"kun":"まじ.える, まじ.る","on":"ザツ, ゾウ","meaning":"mixed, blended, mix, mingle","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0cca18.js.map

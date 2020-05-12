@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20f052"],{b29e:function(n){n.exports=JSON.parse('{"kanji":"暉","strokeOrder":"/strokes/暉.png","info":{"kun":"かが.やく","on":"キ","meaning":"shine, light","examples":[{"word":"旭暉","reading":"きょっき","meaning":"rays of the rising sun"},{"word":"夕暉","reading":"せっき","meaning":"rays of the setting sun"}]}}')}}]);
+//# sourceMappingURL=chunk-2d20f052.js.map

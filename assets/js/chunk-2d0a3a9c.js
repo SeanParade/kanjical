@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a3a9c"],{"02ae":function(n){n.exports=JSON.parse('{"kanji":"壬","strokeOrder":"/strokes/壬.png","info":{"kun":"みずのえ","on":"ニン, ジン, イ","meaning":"9th calendar sign","examples":[{"word":"壬","reading":"じん, みずのえ","meaning":"9th in rank, ninth sign of the Chinese calendar"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0a3a9c.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21d14d"],{d07b:function(n){n.exports=JSON.parse('{"kanji":"晏","strokeOrder":"/strokes/晏.png","info":{"kun":"おそ.い","on":"アン","meaning":"late, quiet, sets (sun)","examples":[{"word":"晏然","reading":"あんぜん","meaning":"calm, tranquil"},{"word":"晏如","reading":"あんじょ","meaning":"calm, tranquil"}]}}')}}]);
+//# sourceMappingURL=chunk-2d21d14d.js.map

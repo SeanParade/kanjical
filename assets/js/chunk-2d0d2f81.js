@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d2f81"],{"5b86":function(o){o.exports=JSON.parse('{"kanji":"萊","strokeOrder":"/strokes/萊.png","info":{"kun":"あかざ, あれわ, こうがい","on":"ライ, リ","meaning":"goosefoot, weed, fallow field","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0d2f81.js.map

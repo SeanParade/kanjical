@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cc603"],{"4e51":function(n){n.exports=JSON.parse('{"kanji":"萠","strokeOrder":"/strokes/萠.png","info":{"kun":"も.える, きざ.す, めばえ, きざ.し","on":"ホウ","meaning":"show symptoms of, sprout, bud, malt","examples":[{"word":"下萠","reading":"したもえ","meaning":"sprouts, shoots"},{"word":"萠芽","reading":"ほうが","meaning":"germination, germ, sprout, bud, sign"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0cc603.js.map

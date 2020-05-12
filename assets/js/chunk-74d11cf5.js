@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-74d11cf5"],{"9b6ca":function(n){n.exports=JSON.parse('{"kanji":"蔣","strokeOrder":"/strokes/蔣.png","info":{"kun":"まこも, はげ.ます","on":"ショウ, ソウ","meaning":"surname, hydropyrum latifalium","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-74d11cf5.js.map

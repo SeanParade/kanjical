@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21063e"],{b84f:function(n){n.exports=JSON.parse('{"kanji":"匡","strokeOrder":"/strokes/匡.png","info":{"kun":"すく.う","on":"キョウ, オウ","meaning":"correct, save, assist","examples":[{"word":"匡正","reading":"きょうせい","meaning":"reform, correction, training"},{"word":"匡救","reading":"きょうきゅう","meaning":"delivering from sin, succor, succour"}]}}')}}]);
+//# sourceMappingURL=chunk-2d21063e.js.map

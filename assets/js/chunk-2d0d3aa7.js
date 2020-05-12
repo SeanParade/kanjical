@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d3aa7"],{"5e78":function(n){n.exports=JSON.parse('{"kanji":"揭","strokeOrder":"/strokes/揭.png","info":{"kun":"かかげる","on":"ケイ, ケツ","meaning":"raise, lift up, surname","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0d3aa7.js.map

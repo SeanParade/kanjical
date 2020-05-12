@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d23774f"],{faca:function(n){n.exports=JSON.parse('{"kanji":"愼","strokeOrder":"/strokes/愼.png","info":{"kun":"つつし.む, つつし.み","on":"シン","meaning":"care, chastity","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d23774f.js.map

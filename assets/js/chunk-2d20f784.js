@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20f784"],{b484:function(n){n.exports=JSON.parse('{"kanji":"緣","strokeOrder":"/strokes/緣.png","info":{"kun":"ふち, へり, よる","on":"エン","meaning":"hem, margin, reason, cause, karma, fate","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d20f784.js.map

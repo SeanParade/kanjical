@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d624f"],{"70ff":function(n){n.exports=JSON.parse('{"kanji":"埜","strokeOrder":"/strokes/埜.png","info":{"kun":"の","on":"ヤ, ショ","meaning":"open country, field, wilderness","examples":[{"word":"埜","reading":"の, や, ぬ","meaning":"plain, field; hidden (structural) member; wild; lacking a political post"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0d624f.js.map

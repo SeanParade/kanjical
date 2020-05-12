@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b6c7d"],{"1f2d":function(n){n.exports=JSON.parse('{"kanji":"牟","strokeOrder":"/strokes/牟.png","info":{"on":"ボウ, ム","meaning":"pupil (eye), moo (cow sound)","examples":[{"word":"牟子","reading":"ぼうし","meaning":"cap worn by masked dancer (cap covers hair and nape and reaches to the shoulders)"},{"word":"釈迦牟尼","reading":"しゃかむに","meaning":"Sakyamuni (sage of the Sakyas)"},{"word":"牟尼","reading":"むに","meaning":"muni (Indian ascetic or sage); Buddha"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0b6c7d.js.map

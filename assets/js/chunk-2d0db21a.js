@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0db21a"],{"6f0d":function(n){n.exports=JSON.parse('{"kanji":"祿","strokeOrder":"/strokes/祿.png","info":{"kun":"さいわ.い, ふち","on":"ロク","meaning":"fief, allowance, pension, grant, happiness","examples":[{"word":"俸祿","reading":"ほうろく","meaning":"retainer\'s stipend, official pay, salary"},{"word":"俸祿米","reading":"ほうろくまい","meaning":"rice allowance"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0db21a.js.map

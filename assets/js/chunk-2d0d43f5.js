@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d43f5"],{"5fe3":function(n){n.exports=JSON.parse('{"kanji":"奎","strokeOrder":"/strokes/奎.png","info":{"on":"ケイ, キ","meaning":"star, god of literature","examples":[{"word":"奎","reading":"けい","meaning":"Chinese \\"Legs\\" constellation (one of the 28 mansions)"},{"word":"奎宿","reading":"とかきぼし","meaning":"Chinese \\"Legs\\" constellation (one of the 28 mansions)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0d43f5.js.map

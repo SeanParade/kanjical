@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d226cbc"],{e9d6:function(e){e.exports=JSON.parse('{"kanji":"敍","strokeOrder":"/strokes/敍.png","info":{"kun":"つい.ず, ついで","on":"ジョ","meaning":"express, state, relate, narrate","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d226cbc.js.map

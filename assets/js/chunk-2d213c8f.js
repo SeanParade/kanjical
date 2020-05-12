@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d213c8f"],{adc9:function(n){n.exports=JSON.parse('{"kanji":"乘","strokeOrder":"/strokes/乘.png","info":{"kun":"の.る, の.せる","on":"ジョウ","meaning":"power, multiplication, record, counter for vehicles","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d213c8f.js.map

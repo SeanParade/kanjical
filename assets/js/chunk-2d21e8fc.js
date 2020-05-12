@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21e8fc"],{d5a6:function(e){e.exports=JSON.parse('{"kanji":"藏","strokeOrder":"/strokes/藏.png","info":{"kun":"くら, おさ.める, かく.れる","on":"ゾウ, ソウ","meaning":"hide, own, have, possess","examples":[{"word":"藏人","reading":"くろうど, くらんど, くらびと","meaning":"keeper of imperial archives; worker at a sake brewery"}]}}')}}]);
+//# sourceMappingURL=chunk-2d21e8fc.js.map

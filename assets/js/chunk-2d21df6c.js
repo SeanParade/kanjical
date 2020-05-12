@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21df6c"],{d417:function(n){n.exports=JSON.parse('{"kanji":"娃","strokeOrder":"/strokes/娃.png","info":{"kun":"うつく.しい","on":"ア, アイ, ワ","meaning":"beautiful","examples":[{"word":"娃鬟","reading":"あいかん","meaning":"beautiful woman"},{"word":"館娃","reading":"かんあい","meaning":"palace (in China built by Wu Dynasty King)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d21df6c.js.map

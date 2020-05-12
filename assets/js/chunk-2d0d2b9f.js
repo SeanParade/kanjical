@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d2b9f"],{"5a74":function(e){e.exports=JSON.parse('{"kanji":"喬","strokeOrder":"/strokes/喬.png","info":{"kun":"たか.い","on":"キョウ","meaning":"high, boasting","examples":[{"word":"喬木","reading":"きょうぼく","meaning":"tall tree, forest tree, arbor, arbour"},{"word":"喬志","reading":"きょうし","meaning":"pride, self-conceit"},{"word":"落葉喬木","reading":"らくようきょうぼく","meaning":"deciduous tall tree"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0d2b9f.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c7d33"],{"51ef":function(n){n.exports=JSON.parse('{"kanji":"稔","strokeOrder":"/strokes/稔.png","info":{"kun":"みの.る, みのり","on":"ネン, ジン, ニン","meaning":"harvest, ripen","examples":[{"word":"稔り","reading":"みのり","meaning":"ripening (of a crop); crop, harvest"},{"word":"稔る","reading":"みのる","meaning":"to bear fruit, to ripen"},{"word":"稔実不良","reading":"ねんじつふりょう","meaning":"poor crop (of rice)"},{"word":"豊稔","reading":"ほうねん","meaning":"bumper harvest"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0c7d33.js.map

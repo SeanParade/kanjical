@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c94d0"],{"590f":function(n){n.exports=JSON.parse('{"kanji":"廳","strokeOrder":"/strokes/廳.png","info":{"kun":"やくしょ","on":"チョウ, テイ","meaning":"hall, central room","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0c94d0.js.map

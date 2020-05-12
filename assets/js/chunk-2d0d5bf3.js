@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d5bf3"],{7037:function(e){e.exports=JSON.parse('{"kanji":"盡","strokeOrder":"/strokes/盡.png","info":{"kun":"つ.くす, つ.きる, つ.かす, さかづき, ことごと.く","on":"ジン, サン","meaning":"exhaust, use up, run out of, deplete, befriend, serve","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0d5bf3.js.map

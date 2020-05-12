@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c7f41"],{"538e":function(e){e.exports=JSON.parse('{"kanji":"藥","strokeOrder":"/strokes/藥.png","info":{"kun":"くすり","on":"ヤク","meaning":"medicine, chemical, enamel, gunpowder, benefit","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0c7f41.js.map

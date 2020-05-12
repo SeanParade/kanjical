@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d221c25"],{cc5d:function(n){n.exports=JSON.parse('{"kanji":"疋","strokeOrder":"/strokes/疋.png","info":{"kun":"あし","on":"ヒキ, ショ, ソ, ヒツ","meaning":"head, counter for animals","examples":[{"word":"疋","reading":"ひき, き","meaning":"counter for small animals; counter for rolls of cloth (two han in size); counter for horses; roll of cloth"},{"word":"一疋","reading":"いっぴき","meaning":"one (small) animal"}]}}')}}]);
+//# sourceMappingURL=chunk-2d221c25.js.map

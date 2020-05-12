@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e6c37"],{"99ab":function(n){n.exports=JSON.parse('{"kanji":"彬","strokeOrder":"/strokes/彬.png","info":{"kun":"うるわ.しい, あき.らか","on":"ヒン, フン","meaning":"refined, gentle","examples":[{"word":"文質彬彬","reading":"ぶんしつひんぴん","meaning":"refined, handsome and solid in character"},{"word":"彬蔚","reading":"ひんうつ","meaning":"erudite and refined, handsome"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0e6c37.js.map

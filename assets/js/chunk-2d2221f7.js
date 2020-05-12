@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2221f7"],{ccef:function(n){n.exports=JSON.parse('{"kanji":"堯","strokeOrder":"/strokes/堯.png","info":{"kun":"たか.い","on":"ギョウ","meaning":"high, far","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d2221f7.js.map

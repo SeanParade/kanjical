@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d216efd"],{c51f:function(e){e.exports=JSON.parse('{"kanji":"佃","strokeOrder":"/strokes/佃.png","info":{"kun":"つくだ","on":"テン, デン","meaning":"cultivated rice field","examples":[{"word":"佃","reading":"つくだ, てん","meaning":"cultivated rice field"},{"word":"佃煮","reading":"つくだに","meaning":"preserved food boiled in soy"}]}}')}}]);
+//# sourceMappingURL=chunk-2d216efd.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e53e2"],{"943d":function(e){e.exports=JSON.parse('{"kanji":"悌","strokeOrder":"/strokes/悌.png","info":{"on":"テイ, ダイ","meaning":"serving our elders","examples":[{"word":"孝悌","reading":"こうてい","meaning":"filial piety, brotherly love"},{"word":"悌順","reading":"ていじゅん","meaning":"obedience"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0e53e2.js.map

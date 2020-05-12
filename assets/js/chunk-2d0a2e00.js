@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a2e00"],{"007a":function(e){e.exports=JSON.parse('{"kanji":"讓","strokeOrder":"/strokes/讓.png","info":{"kun":"ゆず.る","on":"ジョウ","meaning":"allow, permit, yield, concede","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0a2e00.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d217633"],{c709:function(n){n.exports=JSON.parse('{"kanji":"鞠","strokeOrder":"/strokes/鞠.png","info":{"kun":"まり","on":"キク, キュウ","meaning":"ball","examples":[{"word":"鞠","reading":"まり","meaning":"ball"},{"word":"手鞠","reading":"てまり","meaning":"traditional Japanese handball game"},{"word":"蹴鞠","reading":"けまり","meaning":"kemari, type of football played by courtiers in ancient Japan"}]}}')}}]);
+//# sourceMappingURL=chunk-2d217633.js.map

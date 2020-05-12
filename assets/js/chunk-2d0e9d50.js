@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e9d50"],{"8ee2":function(e){e.exports=JSON.parse('{"kanji":"醍","strokeOrder":"/strokes/醍.png","info":{"on":"ダイ, タイ, テイ","meaning":"whey, good Buddhist teaching","examples":[{"word":"醍醐","reading":"だいご","meaning":"the finest thing in this world"},{"word":"醍醐味","reading":"だいごみ","meaning":"the best, the epitome"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0e9d50.js.map

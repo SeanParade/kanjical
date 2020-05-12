@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-748c76cb"],{"4f740":function(n){n.exports=JSON.parse('{"kanji":"樟","strokeOrder":"/strokes/樟.png","info":{"kun":"くす","on":"ショウ","meaning":"camphor","examples":[{"word":"樟","reading":"くすのき, くす, クソノキ, クス","meaning":"camphor tree (Cinnamomum camphora), camphorwood, camphor laurel"},{"word":"樟脳","reading":"しょうのう","meaning":"camphor"}]}}')}}]);
+//# sourceMappingURL=chunk-748c76cb.js.map

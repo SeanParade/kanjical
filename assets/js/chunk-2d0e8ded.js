@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e8ded"],{"8ab0":function(n){n.exports=JSON.parse('{"kanji":"帶","strokeOrder":"/strokes/帶.png","info":{"kun":"お.びる, おび","on":"タイ","meaning":"belt, girdle, band, strap, zone","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0e8ded.js.map

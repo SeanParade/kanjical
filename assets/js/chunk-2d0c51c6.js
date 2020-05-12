@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c51c6"],{"3e64":function(n){n.exports=JSON.parse('{"kanji":"綸","strokeOrder":"/strokes/綸.png","info":{"kun":"いと","on":"リン, カン","meaning":"thread, silk cloth","examples":[{"word":"綸子","reading":"りんず","meaning":"figured satin"},{"word":"綸言","reading":"りんげん","meaning":"imperial words"},{"word":"経綸","reading":"けいりん","meaning":"governing"},{"word":"綸旨","reading":"りんじ","meaning":"the Emperor\'s command, private message from an emperor"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0c51c6.js.map

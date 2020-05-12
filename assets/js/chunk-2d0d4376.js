@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d4376"],{"5fa0":function(n){n.exports=JSON.parse('{"kanji":"壯","strokeOrder":"/strokes/壯.png","info":{"kun":"さかん","on":"ソウ","meaning":"big, large, robust, name of tribe","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0d4376.js.map

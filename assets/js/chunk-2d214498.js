@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d214498"],{affc:function(n){n.exports=JSON.parse('{"kanji":"詢","strokeOrder":"/strokes/詢.png","info":{"kun":"はか.る, まこと","on":"ジュン, シュン","meaning":"consult with","examples":[{"word":"交詢","reading":"こうじゅん","meaning":"promotion of social intercourse"},{"word":"諮詢","reading":"しじゅん","meaning":"question, enquiry, inquiry"}]}}')}}]);
+//# sourceMappingURL=chunk-2d214498.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cc7e7"],{"4dbc":function(n){n.exports=JSON.parse('{"kanji":"紬","strokeOrder":"/strokes/紬.png","info":{"kun":"つむぎ, つむ.ぐ","on":"チュウ","meaning":"pongee (a knotted silk cloth)","examples":[{"word":"紬","reading":"つむぎ","meaning":"pongee"},{"word":"繭紬","reading":"けんちゅう","meaning":"pongee (unbleached silk)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0cc7e7.js.map

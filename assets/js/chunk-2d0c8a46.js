@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c8a46"],{"566e":function(n){n.exports=JSON.parse('{"kanji":"恆","strokeOrder":"/strokes/恆.png","info":{"kun":"つね.に","on":"コウ","meaning":"constant, regular, persistent","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0c8a46.js.map

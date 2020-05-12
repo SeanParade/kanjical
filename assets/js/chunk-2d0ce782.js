@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ce782"],{"601c":function(e){e.exports=JSON.parse('{"kanji":"剩","strokeOrder":"/strokes/剩.png","info":{"kun":"あまつさえ, あま.り, あま.る","on":"ジョウ","meaning":"leftovers, residue, remains","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0ce782.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d0092"],{"65eb":function(e){e.exports=JSON.parse('{"kanji":"堵","strokeOrder":"/strokes/堵.png","info":{"kun":"かき","on":"ト","meaning":"fence, railing, enclosure","examples":[{"word":"安堵","reading":"あんど","meaning":"relief"},{"word":"本領安堵","reading":"ほんりょうあんど","meaning":"recognition and guarantee, by the shogunate, of ownership of the inherited estate of a samurai who pledged allegiance to it (in the Kamakura and early Muromachi periods)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0d0092.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-74d18475"],{"9c489":function(n){n.exports=JSON.parse('{"kanji":"眞","strokeOrder":"/strokes/眞.png","info":{"kun":"ま, まこと","on":"シン","meaning":"truth, reality, Buddhist sect","examples":[{"word":"眞言","reading":"しんごん","meaning":"true word; mantra; Shingon (Sino-Japanese esoteric Buddhism, originating in the eighth century)"}]}}')}}]);
+//# sourceMappingURL=chunk-74d18475.js.map

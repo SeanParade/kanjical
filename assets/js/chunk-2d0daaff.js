@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0daaff"],{"6d50":function(n){n.exports=JSON.parse('{"kanji":"黎","strokeOrder":"/strokes/黎.png","info":{"kun":"くろ.い","on":"レイ, リ","meaning":"dark, black, many","examples":[{"word":"黎明","reading":"れいめい","meaning":"daybreak, dawn"},{"word":"黎明期","reading":"れいめいき","meaning":"dawning"},{"word":"萌黎","reading":"ほうれい","meaning":"the masses, common people"},{"word":"黎族","reading":"リーぞく","meaning":"Li (people)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0daaff.js.map

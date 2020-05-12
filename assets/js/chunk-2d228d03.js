@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d228d03"],{db7f:function(n){n.exports=JSON.parse('{"kanji":"榮","strokeOrder":"/strokes/榮.png","info":{"kun":"さか.える, は.える, え","on":"エイ, ヨウ","meaning":"flourish, prosperity, honour, glory, splendour","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d228d03.js.map

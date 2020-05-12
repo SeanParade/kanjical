@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d221fc9"],{cd4f:function(e){e.exports=JSON.parse('{"kanji":"紘","strokeOrder":"/strokes/紘.png","info":{"kun":"おおづな, つな, つなぐ","on":"コウ","meaning":"large","examples":[{"word":"八紘","reading":"はっこう","meaning":"the eight directions, the whole land, the whole world"},{"word":"八紘一宇","reading":"はっこういちう","meaning":"universal brotherhood, all eight corners of the world under one roof"}]}}')}}]);
+//# sourceMappingURL=chunk-2d221fc9.js.map

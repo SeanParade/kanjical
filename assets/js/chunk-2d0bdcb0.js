@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0bdcb0"],{"2e07":function(n){n.exports=JSON.parse('{"kanji":"傳","strokeOrder":"/strokes/傳.png","info":{"kun":"つた.わる, つた.える, つた.う, つて","on":"テン, デン","meaning":"summon, propagate, transmit","examples":[{"word":"先哲像傳","reading":"せんてつぞうでん","meaning":"pictures of ancient wise men (name of a book)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0bdcb0.js.map

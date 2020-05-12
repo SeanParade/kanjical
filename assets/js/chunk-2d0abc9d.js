@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0abc9d"],{1789:function(e){e.exports=JSON.parse('{"kanji":"芦","strokeOrder":"/strokes/芦.png","info":{"kun":"あし, よし","on":"ロ","meaning":"reed, bullrush","examples":[{"word":"芦","reading":"あし, よし, アシ, ヨシ","meaning":"common reed (Phragmites australis)"},{"word":"芦毛","reading":"あしげ","meaning":"grey (horse coat color), gray"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0abc9d.js.map

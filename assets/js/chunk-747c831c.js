@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-747c831c"],{"3b47d":function(n){n.exports=JSON.parse('{"kanji":"奬","strokeOrder":"/strokes/奬.png","info":{"kun":"すす.める","on":"ショウ, ソウ","meaning":"prize, reward, give award to","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-747c831c.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0be2fa"],{"2ed5":function(n){n.exports=JSON.parse('{"kanji":"穣","strokeOrder":"/strokes/穣.png","info":{"kun":"わら, ゆたか","on":"ジョウ","meaning":"good crops, prosperity, 10**28","examples":[{"word":"穣","reading":"じょう","meaning":"10^28"},{"word":"豊穣","reading":"ほうじょう","meaning":"good harvest, abundant crop"},{"word":"五穀豊穣","reading":"ごこくほうじょう","meaning":"bumper (abundant) crop, huge harvest (of cereals)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0be2fa.js.map

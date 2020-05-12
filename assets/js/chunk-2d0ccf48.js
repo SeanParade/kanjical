@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ccf48"],{"4faa":function(n){n.exports=JSON.parse('{"kanji":"禎","strokeOrder":"/strokes/禎.png","info":{"kun":"さいわ.い","on":"テイ","meaning":"happiness, blessed, good fortune, auspicious","examples":[{"word":"禎祥","reading":"ていしょう","meaning":"good omen"},{"word":"嘉禎","reading":"かてい","meaning":"Katei era (1235.9.19-1238.11.23)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0ccf48.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21e604"],{d4fd:function(e){e.exports=JSON.parse('{"kanji":"醉","strokeOrder":"/strokes/醉.png","info":{"kun":"よ.う, よ.い","on":"スイ","meaning":"get drunk, feel sick, poisoned, elated, spellbound","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d21e604.js.map

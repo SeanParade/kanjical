@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0aa5a6"],{"113c":function(e){e.exports=JSON.parse('{"kanji":"閤","strokeOrder":"/strokes/閤.png","info":{"kun":"くぐりど","on":"コウ","meaning":"small side gate","examples":[{"word":"太閤","reading":"たいこう","meaning":"Toyotomi Hideyoshi, father of the Imperial adviser (advisor)"},{"word":"太閤検地","reading":"たいこうけんち","meaning":"Toyotomi Hideyoshi\'s nationwide land survey (1582 CE)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0aa5a6.js.map

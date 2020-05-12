@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2371b2"],{fa67:function(n){n.exports=JSON.parse('{"kanji":"碎","strokeOrder":"/strokes/碎.png","info":{"kun":"くだ.く, くだ.ける","on":"サイ","meaning":"break, smash, broken, busted","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d2371b2.js.map

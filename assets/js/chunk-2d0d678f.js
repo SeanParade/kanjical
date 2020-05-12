@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d678f"],{7363:function(n){n.exports=JSON.parse('{"kanji":"疊","strokeOrder":"/strokes/疊.png","info":{"kun":"たた.む, たたみ, かさ.なる, かさ.ねる","on":"ジョウ, チョウ","meaning":"tatami, counter for tatami mats, fold, shut up, do away with","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0d678f.js.map

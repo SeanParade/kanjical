@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0aba3a"],{"15aa":function(n){n.exports=JSON.parse('{"kanji":"莞","strokeOrder":"/strokes/莞.png","info":{"kun":"い","on":"カン","meaning":"smiling, reed used to cover tatami","examples":[{"word":"莞","reading":"ふとい, フトイ","meaning":"softstem bulrush (Scirpus tabernaemontani)"},{"word":"莞爾として","reading":"かんじとして","meaning":"with a smile"},{"word":"莞然","reading":"かんぜん","meaning":"sweetly smiling"},{"word":"莞爾","reading":"かんじ","meaning":"smiling"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0aba3a.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c4ab1"],{"3c8c":function(e){e.exports=JSON.parse('{"kanji":"嵯","strokeOrder":"/strokes/嵯.png","info":{"on":"サ, シ","meaning":"steep, craggy, rugged","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0c4ab1.js.map

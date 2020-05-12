@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b9850"],{"32fa":function(n){n.exports=JSON.parse('{"kanji":"戰","strokeOrder":"/strokes/戰.png","info":{"kun":"いくさ, たたか.う, おのの.く, そよぐ","on":"セン","meaning":"war, fighting, battle","examples":[{"word":"戰隊","reading":"せんたい","meaning":"squadron"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0b9850.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-74900300"],{60121:function(n){n.exports=JSON.parse('{"kanji":"蕾","strokeOrder":"/strokes/蕾.png","info":{"kun":"つぼみ","on":"ライ","meaning":"bud (plants, mushrooms not yet opened)","examples":[{"word":"蕾","reading":"つぼみ","meaning":"bud, flower bud"},{"word":"蕾む","reading":"つぼむ","meaning":"to bud, to be budding"},{"word":"味蕾","reading":"みらい","meaning":"taste buds"}]}}')}}]);
+//# sourceMappingURL=chunk-74900300.js.map

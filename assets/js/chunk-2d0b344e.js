@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b344e"],{"283e":function(n){n.exports=JSON.parse('{"kanji":"收","strokeOrder":"/strokes/收.png","info":{"kun":"おさ.める, おさ.まる","on":"シュウ","meaning":"income","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0b344e.js.map

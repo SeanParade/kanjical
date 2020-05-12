@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d209363"],{a7a8:function(e){e.exports=JSON.parse('{"kanji":"朕","strokeOrder":"/strokes/朕.png","info":{"on":"チン","meaning":"majestic plural, imperial we","examples":[{"word":"朕","reading":"ちん","meaning":"We, Our, first person pronoun used by royalty"},{"word":"朕思うに","reading":"ちんおもうに","meaning":"\\"We, the emperor, ..\\""}]}}')}}]);
+//# sourceMappingURL=chunk-2d209363.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c1d3c"],{4868:function(n){n.exports=JSON.parse('{"kanji":"樂","strokeOrder":"/strokes/樂.png","info":{"kun":"たの.しい, たの.しむ, この.む","on":"ガク, ラク, ゴウ","meaning":"music, comfort","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0c1d3c.js.map

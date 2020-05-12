@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a4d6d"],{"07c3":function(n){n.exports=JSON.parse('{"kanji":"與","strokeOrder":"/strokes/與.png","info":{"kun":"あた.える, あずか.る, くみ.する, ともに","on":"ヨ","meaning":"participate in, give, award, impart, provide, cause","examples":[{"word":"與太者","reading":"よたもの","meaning":"hooligan, layabout, good-for-nothing, gangster"},{"word":"與論","reading":"せろん, よろん","meaning":"public opinion"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0a4d6d.js.map

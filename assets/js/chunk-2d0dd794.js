@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0dd794"],{8215:function(e){e.exports=JSON.parse('{"kanji":"琥","strokeOrder":"/strokes/琥.png","info":{"on":"コ","meaning":"jewelled utensil","examples":[{"word":"琥珀","reading":"こはく","meaning":"amber"},{"word":"琥珀色","reading":"こはくいろ","meaning":"amber (colour, color)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0dd794.js.map

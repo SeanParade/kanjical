@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d238016"],{fe12:function(e){e.exports=JSON.parse('{"kanji":"祕","strokeOrder":"/strokes/祕.png","info":{"kun":"ひ.める, かく.す","on":"ヒ","meaning":"mysterious, secret, abstruse","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d238016.js.map

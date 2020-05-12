@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c7b70"],{5296:function(o){o.exports=JSON.parse('{"kanji":"麓","strokeOrder":"/strokes/麓.png","info":{"kun":"ふもと","on":"ロク","meaning":"foot of a mountain","examples":[{"word":"麓","reading":"ふもと","meaning":"the foot, the bottom, the base (of a mountain)"},{"word":"山麓","reading":"さんろく","meaning":"foot or base of a mountain"},{"word":"岳麓","reading":"がくろく","meaning":"foot of Mt Fuji"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0c7b70.js.map

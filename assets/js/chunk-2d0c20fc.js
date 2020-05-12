@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c20fc"],{4967:function(e){e.exports=JSON.parse('{"kanji":"懷","strokeOrder":"/strokes/懷.png","info":{"kun":"ふところ, なつ.かしい, なつ.かしむ, なつ.く, なつ.ける, いだ.く, おも.う","on":"カイ, エ","meaning":"pocket, feelings, heart, yearn, miss someone, become attached to, bosom, breast","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0c20fc.js.map

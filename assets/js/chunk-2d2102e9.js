@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2102e9"],{b797:function(n){n.exports=JSON.parse('{"kanji":"晚","strokeOrder":"/strokes/晚.png","info":{"kun":"くれ, おそい","on":"バン","meaning":"night, evening, late","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d2102e9.js.map

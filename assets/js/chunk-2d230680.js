@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d230680"],{ebc0:function(n){n.exports=JSON.parse('{"kanji":"檢","strokeOrder":"/strokes/檢.png","info":{"kun":"しら.べる","on":"ケン","meaning":"check, examine","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d230680.js.map

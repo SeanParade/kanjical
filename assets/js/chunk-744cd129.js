@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-744cd129"],{"175d4":function(n){n.exports=JSON.parse('{"kanji":"壞","strokeOrder":"/strokes/壞.png","info":{"kun":"こわ.す, こわ.れる, やぶ.る","on":"カイ, エ","meaning":"demolition, break, destroy","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-744cd129.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20ebf4"],{b14c:function(e){e.exports=JSON.parse('{"kanji":"鄭","strokeOrder":"/strokes/鄭.png","info":{"on":"テイ, ジョウ","meaning":"an ancient Chinese province","examples":[{"word":"鄭重","reading":"ていちょう","meaning":"polite, courteous, hospitable"},{"word":"鄭声","reading":"ていせい","meaning":"(decadent) music of the state of Zheng"},{"word":"鄭箋","reading":"ていせん","meaning":"commentary on the Book of Odes by Zheng Xuan"}]}}')}}]);
+//# sourceMappingURL=chunk-2d20ebf4.js.map

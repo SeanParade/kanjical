@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ce83f"],{"607f":function(e){e.exports=JSON.parse('{"kanji":"梧","strokeOrder":"/strokes/梧.png","info":{"kun":"あおぎり","on":"ゴ","meaning":"Chinese parasol tree, phoenix tree","examples":[{"word":"梧桐","reading":"あおぎり, アオギリ, ごとう","meaning":"Chinese parasol-tree (Firmiana simplex), Chinese-bottletree, Japanese varnishtree, phoenix-tree"},{"word":"梯梧","reading":"でいご, でいこ, デイゴ, デイコ","meaning":"Indian coral tree (Erythrina variegata)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0ce83f.js.map

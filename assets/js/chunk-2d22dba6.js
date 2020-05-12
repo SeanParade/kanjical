@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22dba6"],{f974:function(n){n.exports=JSON.parse('{"kanji":"縣","strokeOrder":"/strokes/縣.png","info":{"kun":"か.ける","on":"ケン","meaning":"county, district, subdivision","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d22dba6.js.map

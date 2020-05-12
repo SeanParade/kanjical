@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2178d4"],{c6e0:function(n){n.exports=JSON.parse('{"kanji":"將","strokeOrder":"/strokes/將.png","info":{"kun":"まさ.に, はた, ひきい.る, もって","on":"ショウ, ソウ","meaning":"commander, general, admiral","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d2178d4.js.map

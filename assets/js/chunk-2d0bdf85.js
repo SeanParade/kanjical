@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0bdf85"],{"2deb":function(n){n.exports=JSON.parse('{"kanji":"攝","strokeOrder":"/strokes/攝.png","info":{"kun":"おさ.める, かね.る, と.る","on":"セツ, ショウ","meaning":"surrogate, act in addition to","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0bdf85.js.map

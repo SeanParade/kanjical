@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a3525"],{"024a":function(n){n.exports=JSON.parse('{"kanji":"吞","strokeOrder":"/strokes/吞.png","info":{"kun":"のむ","on":"ドン, トン, テン","meaning":"swallow, absorb, annex, engulf","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0a3525.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d217167"],{c4dd:function(n){n.exports=JSON.parse('{"kanji":"晝","strokeOrder":"/strokes/晝.png","info":{"kun":"ひる","on":"チュウ","meaning":"daytime, daylight","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d217167.js.map

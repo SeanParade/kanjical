@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20fcdd"],{b4d9:function(n){n.exports=JSON.parse('{"kanji":"峯","strokeOrder":"/strokes/峯.png","info":{"kun":"みね, ね","on":"ホウ","meaning":"peak, summit","examples":[{"word":"峯","reading":"みね","meaning":"peak, ridge"}]}}')}}]);
+//# sourceMappingURL=chunk-2d20fcdd.js.map

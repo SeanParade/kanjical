@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-77292c33"],{e6945:function(n){n.exports=JSON.parse('{"kanji":"禪","strokeOrder":"/strokes/禪.png","info":{"kun":"しずか, ゆず.る","on":"ゼン, セン","meaning":"Zen Buddhism, silent meditation","examples":[{"word":"禪","reading":"ぜん","meaning":"dhyana (profound meditation); Zen (Buddhism)"}]}}')}}]);
+//# sourceMappingURL=chunk-77292c33.js.map

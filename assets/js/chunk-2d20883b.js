@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20883b"],{a4b4:function(n){n.exports=JSON.parse('{"kanji":"赳","strokeOrder":"/strokes/赳.png","info":{"on":"キュウ","meaning":"strong and brave","examples":[{"word":"赳赳たる武夫","reading":"きゅうきゅうたるぶふ","meaning":"soldier of dauntless courage"}]}}')}}]);
+//# sourceMappingURL=chunk-2d20883b.js.map

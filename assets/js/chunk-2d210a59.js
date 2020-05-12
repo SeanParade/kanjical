@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d210a59"],{b97c:function(n){n.exports=JSON.parse('{"kanji":"俠","strokeOrder":"/strokes/俠.png","info":{"kun":"おとこだて","on":"キョウ, キャン","meaning":"chivalrous person, chivalry, knight-errant, tomboy","examples":[{"word":"俠女","reading":"きょうじょ","meaning":"gallant woman"},{"word":"俠気","reading":"きょうき, おとこぎ","meaning":"chivalrous spirit"},{"word":"俠客","reading":"きょうかく, おとこだて","meaning":"champion of underdogs"}]}}')}}]);
+//# sourceMappingURL=chunk-2d210a59.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0df806"],{"89d3":function(n){n.exports=JSON.parse('{"kanji":"繫","strokeOrder":"/strokes/繫.png","info":{"kun":"つな.ぐ, かか.る, か.ける","on":"ケイ","meaning":"attach, connect, unite, fasten","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0df806.js.map

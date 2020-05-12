@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0baace"],{"37e9":function(n){n.exports=JSON.parse('{"kanji":"庄","strokeOrder":"/strokes/庄.png","info":{"on":"ショウ, ソ, ソウ, ホウ","meaning":"level","examples":[{"word":"庄","reading":"しょう, そう","meaning":"manor"},{"word":"庄屋","reading":"しょうや","meaning":"village headman"},{"word":"庄園","reading":"しょうえん, そうえん","meaning":"manor, demesne"},{"word":"村庄","reading":"そんしょう","meaning":"village, countryside, country house"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0baace.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e62a5"],{"981a":function(n){n.exports=JSON.parse('{"kanji":"澪","strokeOrder":"/strokes/澪.png","info":{"kun":"みお","on":"レイ","meaning":"water route, shipping channel","examples":[{"word":"澪","reading":"みお","meaning":"waterway, channel; wake (of a ship)"},{"word":"澪標","reading":"みおつくし, れいひょう","meaning":"marks in a water channel"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0e62a5.js.map

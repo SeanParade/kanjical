@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d23081a"],{ed27:function(n){n.exports=JSON.parse('{"kanji":"禮","strokeOrder":"/strokes/禮.png","info":{"on":"レイ, ライ","meaning":"social custom, manners, courtesy, rites","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d23081a.js.map

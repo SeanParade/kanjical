@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20e8ae"],{b08b:function(e){e.exports=JSON.parse('{"kanji":"步","strokeOrder":"/strokes/步.png","info":{"kun":"あるく, あゆむ, あゆみ","on":"ホ, ブ, フ","meaning":"step, pace, walk, stroll","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d20e8ae.js.map

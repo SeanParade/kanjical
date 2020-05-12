@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0bd613"],{"2c6b":function(n){n.exports=JSON.parse('{"kanji":"弐","strokeOrder":"/strokes/弐.png","info":{"kun":"ふた.つ, そえ","on":"ニ, ジ","meaning":"II, two, second","examples":[{"word":"弐","reading":"に","meaning":"two (used in legal documents)"},{"word":"弐つ","reading":"ふたつ","meaning":"two (used in old or legal documents)"},{"word":"弐心","reading":"にしん, ふたごころ","meaning":"duplicity, treachery, double-dealing"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0bd613.js.map

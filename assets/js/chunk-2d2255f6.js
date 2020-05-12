@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2255f6"],{e3b4:function(n){n.exports=JSON.parse('{"kanji":"巽","strokeOrder":"/strokes/巽.png","info":{"kun":"たつみ","on":"ソン","meaning":"southeast","examples":[{"word":"巽","reading":"そん","meaning":"xun (one of the trigrams of the I Ching: wind, southeast)"},{"word":"巽","reading":"たつみ","meaning":"southeast"}]}}')}}]);
+//# sourceMappingURL=chunk-2d2255f6.js.map

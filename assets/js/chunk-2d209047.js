@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d209047"],{a6ea:function(n){n.exports=JSON.parse('{"kanji":"靜","strokeOrder":"/strokes/靜.png","info":{"kun":"しず-, しず.か, しず.まる, しず.める","on":"セイ, ジョウ","meaning":"quiet","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d209047.js.map

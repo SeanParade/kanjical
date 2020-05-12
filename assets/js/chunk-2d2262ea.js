@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2262ea"],{e823:function(n){n.exports=JSON.parse('{"kanji":"禾","strokeOrder":"/strokes/禾.png","info":{"kun":"いね","on":"カ","meaning":"2-branch tree radical (no. 115)","examples":[{"word":"禾本科","reading":"かほんか","meaning":"Gramineae"},{"word":"禾穀類","reading":"かこくるい","meaning":"cereal crops"},{"word":"禾予","reading":"じょ","meaning":"10^24"},{"word":"禾偏","reading":"のぎへん","meaning":"kanji \\"two-branch tree\\" radical at left (radical 115)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d2262ea.js.map

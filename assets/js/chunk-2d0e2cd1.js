@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e2cd1"],{"7ff2":function(n){n.exports=JSON.parse('{"kanji":"燎","strokeOrder":"/strokes/燎.png","info":{"kun":"かがりび","on":"リョウ","meaning":"burn, bonfire","examples":[{"word":"燎原","reading":"りょうげん","meaning":"agricultural burning, setting a field ablaze"},{"word":"庭燎","reading":"にわび, ていりょう","meaning":"garden bonfire (esp. one held on the imperial grounds)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0e2cd1.js.map

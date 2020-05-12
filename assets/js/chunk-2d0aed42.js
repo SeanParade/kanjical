@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0aed42"],{"0c70":function(n){n.exports=JSON.parse('{"kanji":"珈","strokeOrder":"/strokes/珈.png","info":{"kun":"かみかざり","on":"カ","meaning":"ornamental hairpin","examples":[{"word":"珈琲","reading":"こーひー, コーヒー","meaning":"coffee"},{"word":"珈琲粉砕機","reading":"こーひーふんさいき, コーヒーふんさいき","meaning":"coffee grinder, coffee mill"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0aed42.js.map

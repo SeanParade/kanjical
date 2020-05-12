@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2315c6"],{efe4:function(e){e.exports=JSON.parse('{"kanji":"汀","strokeOrder":"/strokes/汀.png","info":{"kun":"みぎわ, なぎさ","on":"テイ","meaning":"water\'s edge, shore, bank","examples":[{"word":"汀","reading":"みぎわ","meaning":"water\'s edge, shore"},{"word":"汀線","reading":"ていせん","meaning":"shoreline, beach line"},{"word":"汀渚","reading":"ていしょ","meaning":"sand bar, waters edge"},{"word":"長汀曲浦","reading":"ちょうていきょくほ","meaning":"long stretch of winding beach"}]}}')}}]);
+//# sourceMappingURL=chunk-2d2315c6.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c071f"],{"428c":function(n){n.exports=JSON.parse('{"kanji":"麿","strokeOrder":"/strokes/麿.png","info":{"kun":"まろ","meaning":"I, you, (kokuji)","examples":[{"word":"麿","reading":"まろ","meaning":"I; (person having) thin or shaved eyebrows; affectionate suffix for names of young men or pets"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0c071f.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d208a10"],{a638:function(e){e.exports=JSON.parse('{"kanji":"黛","strokeOrder":"/strokes/黛.png","info":{"kun":"まゆずみ","on":"タイ","meaning":"blackened eyebrows","examples":[{"word":"黛","reading":"まゆずみ","meaning":"blackened eyebrows, eyebrow pencil"},{"word":"黛青","reading":"たいせい","meaning":"blackish blue"}]}}')}}]);
+//# sourceMappingURL=chunk-2d208a10.js.map

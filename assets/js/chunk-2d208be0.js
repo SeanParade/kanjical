@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d208be0"],{a5a7:function(e){e.exports=JSON.parse('{"kanji":"湛","strokeOrder":"/strokes/湛.png","info":{"kun":"しず.む, たた.える","on":"タン, チン, ジン, セン","meaning":"fill, wear (a smile), clear, pure, dense, deep","examples":[{"word":"湛える","reading":"たたえる","meaning":"to fill (to the brim)"},{"word":"笑みを湛える","reading":"えみをたたえる","meaning":"to be all smiles"}]}}')}}]);
+//# sourceMappingURL=chunk-2d208be0.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21e784"],{d662:function(n){n.exports=JSON.parse('{"kanji":"厩","strokeOrder":"/strokes/厩.png","info":{"kun":"うまや","on":"キュウ","meaning":"barn, stable","examples":[{"word":"厩","reading":"うまや","meaning":"stable, barn"},{"word":"厩肥","reading":"きゅうひ","meaning":"manure, compost"},{"word":"厩舎","reading":"きゅうしゃ","meaning":"barn, stable"},{"word":"厩務員","reading":"きゅうむいん","meaning":"stable boy, stable hand, groom"}]}}')}}]);
+//# sourceMappingURL=chunk-2d21e784.js.map

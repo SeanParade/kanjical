@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d229b8a"],{df3e:function(n){n.exports=JSON.parse('{"kanji":"齊","strokeOrder":"/strokes/齊.png","info":{"kun":"そろ.う, ひと.しい, ひと.しく, あたる, はやい","on":"セイ, サイ","meaning":"alike, equal, similar, Saito","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d229b8a.js.map

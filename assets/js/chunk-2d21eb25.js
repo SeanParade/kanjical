@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21eb25"],{d751:function(n){n.exports=JSON.parse('{"kanji":"藝","strokeOrder":"/strokes/藝.png","info":{"kun":"う.える, のり, わざ","on":"ゲイ, ウン","meaning":"art, craft, performance, acting, trick, stunt","examples":[{"word":"藝","reading":"げい","meaning":"art, craft, accomplishment, artistic skill, technique, performance"}]}}')}}]);
+//# sourceMappingURL=chunk-2d21eb25.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-771c9d75"],{d8beb:function(e){e.exports=JSON.parse('{"kanji":"渚","strokeOrder":"/strokes/渚.png","info":{"kun":"なぎさ","on":"ショ","meaning":"strand, beach, shore","examples":[{"word":"渚","reading":"なぎさ","meaning":"water\'s edge, beach, shore"},{"word":"渚畔","reading":"しょはん","meaning":"shore, waterside"},{"word":"汀渚","reading":"ていしょ","meaning":"sand bar, waters edge"},{"word":"渚伝い","reading":"なぎさづたい","meaning":"along the shore"}]}}')}}]);
+//# sourceMappingURL=chunk-771c9d75.js.map

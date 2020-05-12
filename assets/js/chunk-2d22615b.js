@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22615b"],{e6c7:function(e){e.exports=JSON.parse('{"kanji":"榊","strokeOrder":"/strokes/榊.png","info":{"kun":"さかき","meaning":"sacred Shinto tree, (kokuji)","examples":[{"word":"榊","reading":"さかき","meaning":"sakaki (species of evergreen sacred to Shinto, Cleyera japonica); evergreen (esp. one planted or used at a shrine)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d22615b.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cfb42"],{"659f":function(n){n.exports=JSON.parse('{"kanji":"擢","strokeOrder":"/strokes/擢.png","info":{"kun":"ぬ.く, ぬき.んでる","on":"テキ, タク","meaning":"excel in, surpass, pull out, select","examples":[{"word":"抜擢","reading":"ばってき","meaning":"selection (e.g. for a job position)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0cfb42.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c09d8"],{4314:function(n){n.exports=JSON.parse('{"kanji":"匁","strokeOrder":"/strokes/匁.png","info":{"kun":"もんめ, め","meaning":"monme, 3.75 grams, (kokuji)","examples":[{"word":"匁","reading":"もんめ","meaning":"unit of weight, approx. 3.75 g"},{"word":"百匁","reading":"ひゃくもんめ, ひゃくめ","meaning":"375 grams (100 monme)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0c09d8.js.map

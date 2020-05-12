@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d053b"],{6803:function(e){e.exports=JSON.parse('{"kanji":"鍊","strokeOrder":"/strokes/鍊.png","info":{"kun":"ねる","on":"レン","meaning":"smelt metals, forge, refine","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0d053b.js.map

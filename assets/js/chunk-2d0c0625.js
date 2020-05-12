@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c0625"],{"420a":function(n){n.exports=JSON.parse('{"kanji":"逗","strokeOrder":"/strokes/逗.png","info":{"kun":"とど.まる","on":"トウ, ズ","meaning":"stop","examples":[{"word":"逗留","reading":"とうりゅう","meaning":"staying, sojourn"},{"word":"逗留客","reading":"とうりゅうきゃく","meaning":"sojourner, visitor"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0c0625.js.map

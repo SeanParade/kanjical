@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d226945"],{e8ea:function(e){e.exports=JSON.parse('{"kanji":"僞","strokeOrder":"/strokes/僞.png","info":{"kun":"いつわ.る, いつわ.り, にせ","on":"ギ, カ","meaning":"lie, falsehood, deceive, pretend","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d226945.js.map

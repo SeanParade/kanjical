@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2138b9"],{acab:function(n){n.exports=JSON.parse('{"kanji":"訣","strokeOrder":"/strokes/訣.png","info":{"kun":"わかれ, わかれ.る","on":"ケツ","meaning":"separation, part, secret","examples":[{"word":"秘訣","reading":"ひけつ","meaning":"secret, mysteries, key"},{"word":"永訣","reading":"えいけつ","meaning":"last farewell"},{"word":"訣別","reading":"けつべつ","meaning":"parting"},{"word":"要訣","reading":"ようけつ","meaning":"main point"}]}}')}}]);
+//# sourceMappingURL=chunk-2d2138b9.js.map

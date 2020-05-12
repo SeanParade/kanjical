@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a3e6d"],{"03c7":function(e){e.exports=JSON.parse('{"kanji":"彌","strokeOrder":"/strokes/彌.png","info":{"kun":"いや, や, あまねし, いよいよ, とおい, ひさし, ひさ.しい, わた.る","on":"ミ, ビ","meaning":"extensive, full, fill, complete","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0a3e6d.js.map

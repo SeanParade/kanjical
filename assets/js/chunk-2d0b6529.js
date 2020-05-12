@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b6529"],{"1d55":function(n){n.exports=JSON.parse('{"kanji":"碩","strokeOrder":"/strokes/碩.png","info":{"kun":"おお.きい","on":"セキ","meaning":"large, great, eminent","examples":[{"word":"碩学","reading":"せきがく","meaning":"great scholar, profound scholar"},{"word":"碩儒","reading":"せきじゅ","meaning":"(Confucian) scholar"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0b6529.js.map

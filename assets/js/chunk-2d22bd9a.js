@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22bd9a"],{f170:function(e){e.exports=JSON.parse('{"kanji":"櫻","strokeOrder":"/strokes/櫻.png","info":{"kun":"さくら","on":"オウ, ヨウ","meaning":"cherry","examples":[{"word":"櫻","reading":"さくら","meaning":"cherry tree, cherry blossom; decoy, fake buyer, shill; hired applauder; horse meat"}]}}')}}]);
+//# sourceMappingURL=chunk-2d22bd9a.js.map

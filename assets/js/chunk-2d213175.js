@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d213175"],{aacb:function(e){e.exports=JSON.parse('{"kanji":"諄","strokeOrder":"/strokes/諄.png","info":{"kun":"ひちくど.い, くど.い, くどくど, ねんご.ろ","on":"シュン","meaning":"tedious","examples":[{"word":"諄い","reading":"くどい","meaning":"verbose, importunate, heavy (taste)"},{"word":"諄諄しい","reading":"くどくどしい","meaning":"wordy, verbose, prolix"},{"word":"諄々しい","reading":"くどくどしい","meaning":"wordy, verbose, prolix"}]}}')}}]);
+//# sourceMappingURL=chunk-2d213175.js.map

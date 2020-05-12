@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a3527"],{"024c":function(n){n.exports=JSON.parse('{"kanji":"勳","strokeOrder":"/strokes/勳.png","info":{"kun":"いさお","on":"クン","meaning":"meritorious deed, merits, rank","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0a3527.js.map

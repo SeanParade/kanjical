@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d23718d"],{fa51:function(n){n.exports=JSON.parse('{"kanji":"郁","strokeOrder":"/strokes/郁.png","info":{"on":"イク","meaning":"cultural progress, perfume","examples":[{"word":"郁郁","reading":"いくいく","meaning":"flourishing, teeming with culture, aromatic, emitting an aroma"},{"word":"郁々","reading":"いくいく","meaning":"flourishing, teeming with culture, aromatic, emitting an aroma"},{"word":"馥郁","reading":"ふくいく","meaning":"fragrant, sweet-smelling"}]}}')}}]);
+//# sourceMappingURL=chunk-2d23718d.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-76fc2738"],{b0804:function(e){e.exports=JSON.parse('{"kanji":"覽","strokeOrder":"/strokes/覽.png","info":{"kun":"み.る","on":"ラン","meaning":"look at, inspect, perceive","examples":[{"word":"總覽","reading":"そうらん","meaning":"guide, general survey, conspectus, comprehensive bibliography"}]}}')}}]);
+//# sourceMappingURL=chunk-76fc2738.js.map

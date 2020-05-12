@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b1604"],{"201a":function(n){n.exports=JSON.parse('{"kanji":"怜","strokeOrder":"/strokes/怜.png","info":{"kun":"あわ.れむ, さと.い","on":"レイ, レン, リョウ","meaning":"wise","examples":[{"word":"怜俐","reading":"れいり","meaning":"cleverness, sagacity"},{"word":"怜悧","reading":"れいり","meaning":"cleverness, sagacity"},{"word":"怜悧狡猾","reading":"れいりこうかつ","meaning":"cunning, crafty, shrewd, guileful"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0b1604.js.map

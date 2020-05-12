@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0da315"],{"6b0c":function(n){n.exports=JSON.parse('{"kanji":"拜","strokeOrder":"/strokes/拜.png","info":{"kun":"おが.む, おろが.む","on":"ハイ","meaning":"worship, adore, pray to","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0da315.js.map

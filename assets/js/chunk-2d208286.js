@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d208286"],{a430:function(n){n.exports=JSON.parse('{"kanji":"亙","strokeOrder":"/strokes/亙.png","info":{"kun":"わた.る, もと.める","on":"コウ, カン","meaning":"range, reach, extend, cover","examples":[{"word":"亙る","reading":"わたる","meaning":"to cross over, to go across; to extend, to cover, to range, to span"},{"word":"亙古","reading":"こうこ","meaning":"from long ago up until the present day"}]}}')}}]);
+//# sourceMappingURL=chunk-2d208286.js.map

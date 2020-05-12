@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-7498bca4"],{"5b71a":function(n){n.exports=JSON.parse('{"kanji":"肇","strokeOrder":"/strokes/肇.png","info":{"kun":"はじ.める, はじめ","on":"チョウ, ジョウ, トウ","meaning":"beginning","examples":[{"word":"肇国","reading":"ちょうこく","meaning":"founding of a state"},{"word":"肇歳","reading":"ちょうさい","meaning":"beginning of the year"}]}}')}}]);
+//# sourceMappingURL=chunk-7498bca4.js.map

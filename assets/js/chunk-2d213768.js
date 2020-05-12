@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d213768"],{ad7f:function(n){n.exports=JSON.parse('{"kanji":"鑄","strokeOrder":"/strokes/鑄.png","info":{"kun":"い.る","on":"チュウ, シュ, シュウ","meaning":"cast, mint","examples":[{"word":"鑄る","reading":"いる","meaning":"to cast, to mint, to coin"}]}}')}}]);
+//# sourceMappingURL=chunk-2d213768.js.map

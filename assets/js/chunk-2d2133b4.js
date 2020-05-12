@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2133b4"],{ac95:function(n){n.exports=JSON.parse('{"kanji":"沌","strokeOrder":"/strokes/沌.png","info":{"kun":"くら.い","on":"トン","meaning":"primeval chaos","examples":[{"word":"混沌","reading":"こんとん","meaning":"confusion, chaos, disorder"},{"word":"渾沌","reading":"こんとん","meaning":"confusion, chaos, disorder"},{"word":"混沌としている","reading":"こんとんとしている","meaning":"to be chaotic"}]}}')}}]);
+//# sourceMappingURL=chunk-2d2133b4.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a5552"],{"09f9":function(n){n.exports=JSON.parse('{"kanji":"彗","strokeOrder":"/strokes/彗.png","info":{"kun":"ほうき","on":"スイ, エ, ケイ, セイ","meaning":"comet","examples":[{"word":"彗星","reading":"すいせい, ほうきぼし","meaning":"comet"},{"word":"彗星のように現れる","reading":"すいせいのようにあらわれる","meaning":"to become famous overnight, to burst into fame"},{"word":"ハレー彗星","reading":"ハレーすいせい","meaning":"Halley\'s comet"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0a5552.js.map

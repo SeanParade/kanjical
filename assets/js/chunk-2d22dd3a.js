@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22dd3a"],{f8c5:function(n){n.exports=JSON.parse('{"kanji":"祢","strokeOrder":"/strokes/祢.png","info":{"on":"ネ, デイ, ナイ","meaning":"ancestral shrine","examples":[{"word":"祢宜","reading":"ねぎ","meaning":"senior priest (of a Shinto shrine)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d22dd3a.js.map

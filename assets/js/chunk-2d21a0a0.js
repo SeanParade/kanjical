@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21a0a0"],{ba8c:function(a){a.exports=JSON.parse('{"kanji":"壘","strokeOrder":"/strokes/壘.png","info":{"kun":"とりで","on":"ルイ, ライ, スイ","meaning":"fort, rampart, walls, base(ball)","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d21a0a0.js.map

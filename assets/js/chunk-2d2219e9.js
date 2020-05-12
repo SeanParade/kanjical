@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2219e9"],{cab7:function(n){n.exports=JSON.parse('{"kanji":"廿","strokeOrder":"/strokes/廿.png","info":{"kun":"にじゅう","on":"ジュウ, ニュウ","meaning":"twenty, 20","examples":[{"word":"廿","reading":"にじゅう, はた","meaning":"twenty"},{"word":"廿","reading":"はたち","meaning":"20 years old; twenty"},{"word":"廿日鼠","reading":"はつかねずみ, ハツカネズミ","meaning":"house mouse (Mus musculus)"},{"word":"廿日","reading":"はつか","meaning":"twentieth (day of the month); twenty days"}]}}')}}]);
+//# sourceMappingURL=chunk-2d2219e9.js.map

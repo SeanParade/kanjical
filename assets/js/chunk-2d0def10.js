@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0def10"],{8893:function(e){e.exports=JSON.parse('{"kanji":"繡","strokeOrder":"/strokes/繡.png","info":{"kun":"ぬいとり","on":"シュウ","meaning":"embroider, embroidery, ornament","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0def10.js.map

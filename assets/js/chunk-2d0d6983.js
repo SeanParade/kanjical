@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d6983"],{"72e7":function(n){n.exports=JSON.parse('{"kanji":"德","strokeOrder":"/strokes/德.png","info":{"kun":"おしえ","on":"トク","meaning":"ethics, morality, virtue","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0d6983.js.map

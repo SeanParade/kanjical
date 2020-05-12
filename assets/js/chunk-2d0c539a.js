@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c539a"],{"3dd7":function(n){n.exports=JSON.parse('{"kanji":"釧","strokeOrder":"/strokes/釧.png","info":{"kun":"くしろ, うでわ","on":"セン","meaning":"bracelet","examples":[{"word":"釧","reading":"くしろ","meaning":"bracelet (usu. dating from the Kofun period)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0c539a.js.map

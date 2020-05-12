@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d7616"],{7722:function(e){e.exports=JSON.parse('{"kanji":"專","strokeOrder":"/strokes/專.png","info":{"kun":"もっぱ.ら","on":"セン","meaning":"specialty, exclusive, mainly, solely","examples":[{"word":"專門","reading":"せんもん","meaning":"speciality, specialty, subject of study, expert"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0d7616.js.map

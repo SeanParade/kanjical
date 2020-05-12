@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0f0dcd"],{"9dd0":function(n){n.exports=JSON.parse('{"kanji":"獸","strokeOrder":"/strokes/獸.png","info":{"kun":"けもの, けだもの","on":"ジュウ","meaning":"beast, animal, bestial","examples":[{"word":"双蹄獸","reading":"そうていじゅう","meaning":"cloven-hoofed animal"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0f0dcd.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0dae79"],{"6e1e":function(n){n.exports=JSON.parse('{"kanji":"鷄","strokeOrder":"/strokes/鷄.png","info":{"kun":"にわとり, とり","on":"ケイ","meaning":"chicken","examples":[{"word":"牝鷄","reading":"ひんけい","meaning":"hen"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0dae79.js.map

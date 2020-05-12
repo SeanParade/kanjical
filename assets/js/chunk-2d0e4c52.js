@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e4c52"],{9247:function(n){n.exports=JSON.parse('{"kanji":"巖","strokeOrder":"/strokes/巖.png","info":{"kun":"いわ, いわお, けわ.しい","on":"ガン","meaning":"rock, crag, boulder","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0e4c52.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-747f085e"],{"3fd58":function(n){n.exports=JSON.parse('{"kanji":"瞥","strokeOrder":"/strokes/瞥.png","info":{"on":"ベツ, ヘツ","meaning":"glance at","examples":[{"word":"一瞥","reading":"いちべつ","meaning":"(a) glance, (a) look"},{"word":"瞥見","reading":"べっけん","meaning":"a glance or glimpse"}]}}')}}]);
+//# sourceMappingURL=chunk-747f085e.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e488f"],{9145:function(n){n.exports=JSON.parse('{"kanji":"賣","strokeOrder":"/strokes/賣.png","info":{"kun":"う.る, う.れる","on":"バイ","meaning":"sell, betray, show off","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0e488f.js.map

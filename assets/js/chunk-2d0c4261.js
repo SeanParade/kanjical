@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c4261"],{"3a30":function(e){e.exports=JSON.parse('{"kanji":"實","strokeOrder":"/strokes/實.png","info":{"kun":"み, みの.る, まこと.に, みの.り, みち.る","on":"ジツ, シツ","meaning":"truth, reality","examples":[{"word":"實に","reading":"じつに, まことに, げに, しんに","meaning":"indeed, really, absolutely, truly, actually, very, quite"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0c4261.js.map

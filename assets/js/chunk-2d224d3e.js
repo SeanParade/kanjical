@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d224d3e"],{e294:function(e){e.exports=JSON.parse('{"kanji":"俐","strokeOrder":"/strokes/俐.png","info":{"kun":"かしこ.い","on":"リ","meaning":"clever","examples":[{"word":"俐巧","reading":"りこう","meaning":"clever, shrewd, bright, sharp, wise, intelligent"},{"word":"俐発","reading":"りはつ","meaning":"cleverness, wisdom, intelligence"},{"word":"伶俐","reading":"れいり","meaning":"cleverness, sagacity"},{"word":"怜俐","reading":"れいり","meaning":"cleverness, sagacity"}]}}')}}]);
+//# sourceMappingURL=chunk-2d224d3e.js.map

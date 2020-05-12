@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21eec7"],{d841:function(n){n.exports=JSON.parse('{"kanji":"髮","strokeOrder":"/strokes/髮.png","info":{"kun":"かみ","on":"ハツ","meaning":"hair","examples":[{"word":"髮を切る","reading":"かみをきる","meaning":"to cut hair"}]}}')}}]);
+//# sourceMappingURL=chunk-2d21eec7.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d3c98"],{"5df9":function(n){n.exports=JSON.parse('{"kanji":"冨","strokeOrder":"/strokes/冨.png","info":{"kun":"と.む, とみ","on":"フ, フウ","meaning":"enrich, wealthy, abundant","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0d3c98.js.map

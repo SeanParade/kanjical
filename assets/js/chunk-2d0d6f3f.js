@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d6f3f"],{"756a":function(n){n.exports=JSON.parse('{"kanji":"鎭","strokeOrder":"/strokes/鎭.png","info":{"kun":"しず.める, しず.まる, おさえ","on":"チン","meaning":"ancient peace-preservation centers","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0d6f3f.js.map

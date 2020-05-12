@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d210c2d"],{b8ef:function(n){n.exports=JSON.parse('{"kanji":"嶋","strokeOrder":"/strokes/嶋.png","info":{"kun":"しま","on":"トウ","meaning":"island","examples":[{"word":"嶋","reading":"しま","meaning":"island; territory (of a prostitute, organized crime gang, etc.), turf"}]}}')}}]);
+//# sourceMappingURL=chunk-2d210c2d.js.map

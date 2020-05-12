@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cb688"],{"4a16":function(n){n.exports=JSON.parse('{"kanji":"皐","strokeOrder":"/strokes/皐.png","info":{"kun":"さつき","on":"コウ","meaning":"swamp, shore","examples":[{"word":"皐月","reading":"さつき","meaning":"fifth month of the lunar calendar; satsuki azalea (Rhododendron indicum)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0cb688.js.map

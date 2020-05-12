@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c7e94"],{5344:function(e){e.exports=JSON.parse('{"kanji":"賴","strokeOrder":"/strokes/賴.png","info":{"kun":"たのむ, たよる, たより","on":"ライ","meaning":"rely, depend on, accuse falsely","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0c7e94.js.map

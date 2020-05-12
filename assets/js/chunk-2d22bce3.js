@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22bce3"],{f113:function(n){n.exports=JSON.parse('{"kanji":"滯","strokeOrder":"/strokes/滯.png","info":{"kun":"とどこお.る","on":"タイ, テイ","meaning":"block up, obstruct, stagnant","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d22bce3.js.map

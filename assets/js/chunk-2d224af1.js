@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d224af1"],{e0d4:function(e){e.exports=JSON.parse('{"kanji":"圈","strokeOrder":"/strokes/圈.png","info":{"kun":"かこ.い","on":"ケン","meaning":"sphere, circle, radius, range","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d224af1.js.map

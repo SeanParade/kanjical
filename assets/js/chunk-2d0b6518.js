@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b6518"],{"1d3b":function(e){e.exports=JSON.parse('{"kanji":"瀕","strokeOrder":"/strokes/瀕.png","info":{"kun":"ほとり","on":"ヒン","meaning":"shore, brink, verge","examples":[{"word":"瀕死","reading":"ひんし","meaning":"dying, (on the) verge of death"},{"word":"瀕する","reading":"ひんする","meaning":"to draw near, to be on the verge of"},{"word":"瀕死状態","reading":"ひんしじょうたい","meaning":"moribund state, near-death, barely alive condition"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0b6518.js.map

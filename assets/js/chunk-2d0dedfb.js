@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0dedfb"],{8805:function(n){n.exports=JSON.parse('{"kanji":"碓","strokeOrder":"/strokes/碓.png","info":{"kun":"たし.か, かく.たる","on":"カク, タイ","meaning":"pestle","examples":[{"word":"碓","reading":"うす","meaning":"mill-stone, mortar"},{"word":"碓氷峠","reading":"うすいとうげ","meaning":"Usui Pass"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0dedfb.js.map

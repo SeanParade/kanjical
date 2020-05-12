@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d230bf6"],{ee33:function(e){e.exports=JSON.parse('{"kanji":"劉","strokeOrder":"/strokes/劉.png","info":{"kun":"ころ.す","on":"リュウ, ル","meaning":"weapon of war, logging axe, kill en masse, peeling (paint off a wall, etc), sparse, faded","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d230bf6.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d5fad"],{7130:function(n){n.exports=JSON.parse('{"kanji":"巢","strokeOrder":"/strokes/巢.png","info":{"meaning":"nest, living quarter in tree","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0d5fad.js.map

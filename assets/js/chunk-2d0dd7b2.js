@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0dd7b2"],{8224:function(a){a.exports=JSON.parse('{"kanji":"楢","strokeOrder":"/strokes/楢.png","info":{"kun":"なら","on":"シュウ, ユウ","meaning":"oak","examples":[{"word":"楢","reading":"なら","meaning":"oak (esp. Quercus serrata)"},{"word":"小楢","reading":"こなら, コナラ","meaning":"konara oak, quercus serrata"},{"word":"水楢","reading":"みずなら, ミズナラ","meaning":"Mongolian oak, quercus mongolica var. grosseserrata"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0dd7b2.js.map

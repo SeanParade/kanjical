@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cf111"],{"61aa":function(n){n.exports=JSON.parse('{"kanji":"渥","strokeOrder":"/strokes/渥.png","info":{"kun":"あつ.い, うるお.う","on":"アク","meaning":"kindness","examples":[{"word":"渥地","reading":"あくち","meaning":"marshland"},{"word":"優渥","reading":"ゆうあく","meaning":"gracious"},{"word":"渥然","reading":"あくぜん","meaning":"glossy"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0cf111.js.map

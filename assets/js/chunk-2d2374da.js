@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2374da"],{fb19:function(n){n.exports=JSON.parse('{"kanji":"凉","strokeOrder":"/strokes/凉.png","info":{"kun":"すず.しい, すず.む, すず.やか, うす.い, ひや.す, まことに","on":"リョウ","meaning":"nice and cool","examples":[{"word":"爽凉","reading":"そうりょう","meaning":"cool and refreshing"}]}}')}}]);
+//# sourceMappingURL=chunk-2d2374da.js.map

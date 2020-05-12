@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d217924"],{c6fa:function(n){n.exports=JSON.parse('{"kanji":"謠","strokeOrder":"/strokes/謠.png","info":{"kun":"うた.う, うた","on":"ヨウ","meaning":"chant (esp. Noh), folksong, ballad","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d217924.js.map

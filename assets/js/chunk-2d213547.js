@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d213547"],{abe5:function(e){e.exports=JSON.parse('{"kanji":"驍","strokeOrder":"/strokes/驍.png","info":{"kun":"たけし, つよ.い","on":"ギョウ, キョウ","meaning":"strong, good horse, gallant, brave, ferocious","examples":[{"word":"驍将","reading":"ぎょうしょう","meaning":"veteran general, leader"}]}}')}}]);
+//# sourceMappingURL=chunk-2d213547.js.map

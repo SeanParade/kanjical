@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-77310f7e"],{dec0b:function(n){n.exports=JSON.parse('{"kanji":"諏","strokeOrder":"/strokes/諏.png","info":{"kun":"そう, はか.る","on":"シュ, ス","meaning":"consult","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-77310f7e.js.map

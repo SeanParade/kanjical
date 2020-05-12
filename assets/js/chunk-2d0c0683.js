@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c0683"],{"423b":function(n){n.exports=JSON.parse('{"kanji":"濕","strokeOrder":"/strokes/濕.png","info":{"kun":"しめ.る, しめ.す, うるお.う, うるお.す","on":"シツ, シュウ","meaning":"wet, moist, humid, damp, an illness","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0c0683.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2109ab"],{b931:function(n){n.exports=JSON.parse('{"kanji":"莉","strokeOrder":"/strokes/莉.png","info":{"on":"リ, ライ, レイ","meaning":"jasmine","examples":[{"word":"茉莉花","reading":"まつりか","meaning":"Arabian jasmine (Jasminum sambac)"},{"word":"茉莉","reading":"まつり, マツリ","meaning":"Arabian jasmine (Jasminum sambac)"},{"word":"野茉莉","reading":"えごのき, エゴノキ","meaning":"Japanese snowbell, styrax japonica"}]}}')}}]);
+//# sourceMappingURL=chunk-2d2109ab.js.map

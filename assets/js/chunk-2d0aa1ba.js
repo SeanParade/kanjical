@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0aa1ba"],{1038:function(n){n.exports=JSON.parse('{"kanji":"單","strokeOrder":"/strokes/單.png","info":{"kun":"ひとえ","on":"タン","meaning":"one, single, simple","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0aa1ba.js.map

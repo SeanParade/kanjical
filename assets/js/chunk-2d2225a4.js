@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2225a4"],{cdf3:function(e){e.exports=JSON.parse('{"kanji":"險","strokeOrder":"/strokes/險.png","info":{"kun":"けわ.しい","on":"ケン","meaning":"inaccessible place, impregnable position, steep place, sharp eyes","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d2225a4.js.map

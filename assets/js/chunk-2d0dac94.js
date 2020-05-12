@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0dac94"],{"6ca2":function(n){n.exports=JSON.parse('{"kanji":"徽","strokeOrder":"/strokes/徽.png","info":{"kun":"しるし","on":"キ","meaning":"good, beautiful, badge","examples":[{"word":"徽章","reading":"きしょう","meaning":"insignia, emblem"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0dac94.js.map

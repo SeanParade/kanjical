@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d221c61"],{cc7b:function(n){n.exports=JSON.parse('{"kanji":"增","strokeOrder":"/strokes/增.png","info":{"kun":"ます, ふえる, ふやす","on":"ゾウ, ソウ","meaning":"increase, add to, augment","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d221c61.js.map

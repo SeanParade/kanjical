@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b33dc"],{2811:function(n){n.exports=JSON.parse('{"kanji":"瑳","strokeOrder":"/strokes/瑳.png","info":{"kun":"みが.く","on":"サ","meaning":"polish","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0b33dc.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22dafa"],{f90a:function(n){n.exports=JSON.parse('{"kanji":"柾","strokeOrder":"/strokes/柾.png","info":{"kun":"まさ, まさめ, まさき","meaning":"straight grain, spindle tree, (kokuji)","examples":[{"word":"柾","reading":"マサキ, まさき","meaning":"Japanese spindletree (Euonymus japonicus)"},{"word":"柾の葛","reading":"まさきのかずら","meaning":"Asiatic jasmine (Trachelospermum asiaticum), Asian jasmine"}]}}')}}]);
+//# sourceMappingURL=chunk-2d22dafa.js.map

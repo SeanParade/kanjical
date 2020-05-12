@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0da7bc"],{"6c92":function(n){n.exports=JSON.parse('{"kanji":"彈","strokeOrder":"/strokes/彈.png","info":{"kun":"ひ.く, はず.む, たま, はじ.く, はじ.ける, ただ.す","on":"ダン, タン","meaning":"bullet, twang, flip, snap","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0da7bc.js.map

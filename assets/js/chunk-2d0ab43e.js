@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ab43e"],{1515:function(n){n.exports=JSON.parse('{"kanji":"舜","strokeOrder":"/strokes/舜.png","info":{"on":"シュン","meaning":"type of morning glory, rose of Sharon, althea","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0ab43e.js.map

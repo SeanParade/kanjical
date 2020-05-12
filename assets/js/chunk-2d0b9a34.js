@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b9a34"],{3496:function(n){n.exports=JSON.parse('{"kanji":"惺","strokeOrder":"/strokes/惺.png","info":{"kun":"さと.る","on":"セイ","meaning":"realize","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0b9a34.js.map

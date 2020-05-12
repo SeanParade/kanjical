@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2169d0"],{c2e0:function(e){e.exports=JSON.parse('{"kanji":"洸","strokeOrder":"/strokes/洸.png","info":{"on":"コウ","meaning":"sparkling water","examples":[{"word":"洸洸","reading":"こうこう","meaning":"valiant, brave, surge (of water)"},{"word":"洸々","reading":"こうこう","meaning":"valiant, brave, surge (of water)"},{"word":"洸洋","reading":"こうよう","meaning":"unfathomable, great expanse of water, incoherent"}]}}')}}]);
+//# sourceMappingURL=chunk-2d2169d0.js.map

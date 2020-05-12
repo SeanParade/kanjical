@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e9718"],{"8e0e":function(e){e.exports=JSON.parse('{"kanji":"祐","strokeOrder":"/strokes/祐.png","info":{"kun":"たす.ける","on":"ユウ, ウ","meaning":"help","examples":[{"word":"天祐","reading":"てんゆう","meaning":"divine aid, divine grace, providential help"},{"word":"祐筆","reading":"ゆうひつ","meaning":"private secretary, amanuensis"},{"word":"神祐","reading":"しんゆう","meaning":"heavenly protection, divine help"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0e9718.js.map

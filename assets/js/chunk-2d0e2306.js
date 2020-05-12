@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e2306"],{"7e46":function(o){o.exports=JSON.parse('{"kanji":"栞","strokeOrder":"/strokes/栞.png","info":{"kun":"しおり","on":"カン","meaning":"bookmark, guidebook","examples":[{"word":"栞","reading":"しおり","meaning":"bookmark, guidebook"},{"word":"本に栞を挿む","reading":"ほんにしおりをはさむ","meaning":"to put a bookmark between the pages of a book"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0e2306.js.map

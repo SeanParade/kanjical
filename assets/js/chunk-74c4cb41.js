@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-74c4cb41"],{"8f3a3":function(n){n.exports=JSON.parse('{"kanji":"羨","strokeOrder":"/strokes/羨.png","info":{"kun":"うらや.む, あまり","on":"セン, エン","meaning":"envious, be jealous, covet","examples":[{"word":"羨ましい","reading":"うらやましい","meaning":"envious (feeling, etc.), jealous; enviable (position, etc.)"},{"word":"羨む","reading":"うらやむ","meaning":"to envy"},{"word":"羨望","reading":"せんぼう","meaning":"envy"},{"word":"ペニス羨望","reading":"ペニスせんぼう","meaning":"penis envy"}]}}')}}]);
+//# sourceMappingURL=chunk-74c4cb41.js.map

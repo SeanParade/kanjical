@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0da3dc"],{"6b82":function(e){e.exports=JSON.parse('{"kanji":"脩","strokeOrder":"/strokes/脩.png","info":{"kun":"おさ.める, なが.い, ほじし","on":"シュウ","meaning":"dried meat","examples":[{"word":"束脩","reading":"そくしゅう","meaning":"bundle of dried meat, present to a teacher, registration fee"},{"word":"脩竹","reading":"しゅうちく","meaning":"tall bamboo"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0da3dc.js.map

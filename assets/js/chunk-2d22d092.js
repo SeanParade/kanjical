@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22d092"],{f67c:function(n){n.exports=JSON.parse('{"kanji":"樣","strokeOrder":"/strokes/樣.png","info":{"kun":"さま","on":"ヨウ, ショウ","meaning":"Esq., way, manner, situation, polite suffix","examples":[{"word":"仕樣","reading":"しよう","meaning":"way, method, means, resource, remedy; (technical) specification"}]}}')}}]);
+//# sourceMappingURL=chunk-2d22d092.js.map

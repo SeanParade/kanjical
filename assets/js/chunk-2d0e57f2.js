@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e57f2"],{9577:function(e){e.exports=JSON.parse('{"kanji":"欽","strokeOrder":"/strokes/欽.png","info":{"kun":"つつし.む","on":"キン, コン","meaning":"respect, revere, long for","examples":[{"word":"欽定","reading":"きんてい","meaning":"authorized, authorised, appointed"},{"word":"欽慕","reading":"きんぼ","meaning":"adoration, reverence, admiration"},{"word":"欽定憲法","reading":"きんていけんぽう","meaning":"constitution granted by the Emperor"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0e57f2.js.map

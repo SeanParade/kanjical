@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0df7cb"],{"89b6":function(n){n.exports=JSON.parse('{"kanji":"俱","strokeOrder":"/strokes/俱.png","info":{"kun":"ともに","on":"ク","meaning":"all, together, accompany","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0df7cb.js.map

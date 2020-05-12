@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e97bd"],{"8e71":function(n){n.exports=JSON.parse('{"kanji":"櫂","strokeOrder":"/strokes/櫂.png","info":{"kun":"かい, かじ","on":"トウ, タク","meaning":"oar, scull, paddle","examples":[{"word":"櫂","reading":"かい","meaning":"paddle, oar, scull"},{"word":"櫓櫂","reading":"ろかい","meaning":"sculls and paddles"},{"word":"艪櫂","reading":"ろかい","meaning":"sculls and paddles"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0e97bd.js.map

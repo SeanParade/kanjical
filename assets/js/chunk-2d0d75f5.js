@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d75f5"],{7710:function(n){n.exports=JSON.parse('{"kanji":"擊","strokeOrder":"/strokes/擊.png","info":{"kun":"う.つ","on":"ゲキ","meaning":"strike, hit, beat, attack, fight","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0d75f5.js.map

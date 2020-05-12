@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-74ae92fe"],{85892:function(e){e.exports=JSON.parse('{"kanji":"騷","strokeOrder":"/strokes/騷.png","info":{"kun":"さわ.ぐ, うれい, さわが.しい","on":"ソウ","meaning":"harass, bother, annoy, disturb, agitate, sad, grieved","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-74ae92fe.js.map

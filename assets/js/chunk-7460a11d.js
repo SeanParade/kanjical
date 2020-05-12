@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-7460a11d"],{"1affc":function(o){o.exports=JSON.parse('{"kanji":"芙","strokeOrder":"/strokes/芙.png","info":{"on":"フ","meaning":"lotus, Mt Fuji","examples":[{"word":"芙蓉","reading":"ふよう","meaning":"cotton rose, Hibiscus mutabilis, Confederate rose; lotus blossom"},{"word":"芙蓉峰","reading":"ふようほう","meaning":"Mt Fuji (lotus-shaped mountain)"},{"word":"酔芙蓉","reading":"すいふよう","meaning":"cotton rosemallow (Hibiscus mutabilis cv. Versicolor), Confederate rose"}]}}')}}]);
+//# sourceMappingURL=chunk-7460a11d.js.map

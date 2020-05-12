@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a4763"],{"0717":function(n){n.exports=JSON.parse('{"kanji":"狹","strokeOrder":"/strokes/狹.png","info":{"kun":"せま.い, せば.める, せば.まる, さ","on":"キョウ, コウ","meaning":"narrow, contract, reduce, tight, limited","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d0a4763.js.map

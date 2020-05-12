@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d222402"],{ce8b:function(e){e.exports=JSON.parse('{"kanji":"頗","strokeOrder":"/strokes/頗.png","info":{"kun":"すこぶ.る, かたよ.る","on":"ハ","meaning":"prejudiced, exceedingly","examples":[{"word":"頗る","reading":"すこぶる, そこぶる","meaning":"extremely, very much"},{"word":"偏頗","reading":"へんぱ","meaning":"favoritism, favouritism, discrimination"}]}}')}}]);
+//# sourceMappingURL=chunk-2d222402.js.map

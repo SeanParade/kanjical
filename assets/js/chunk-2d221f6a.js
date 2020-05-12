@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d221f6a"],{cd1d:function(e){e.exports=JSON.parse('{"kanji":"桔","strokeOrder":"/strokes/桔.png","info":{"on":"キツ, ケツ","meaning":"used in plant names","examples":[{"word":"桔梗","reading":"ききょう","meaning":"Chinese bellflower, Platycodon grandiflorum"},{"word":"捻じ桔梗","reading":"ねじききょう","meaning":"Chinese bellflower (slightly screwed)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d221f6a.js.map

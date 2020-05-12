@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d208e83"],{a790:function(n){n.exports=JSON.parse('{"kanji":"峽","strokeOrder":"/strokes/峽.png","info":{"kun":"はざま","on":"キョウ, コウ","meaning":"gorge, strait, ravine, isthmus","examples":[]}}')}}]);
+//# sourceMappingURL=chunk-2d208e83.js.map

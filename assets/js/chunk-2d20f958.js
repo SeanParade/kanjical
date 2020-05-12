@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20f958"],{b3f7:function(n){n.exports=JSON.parse('{"kanji":"靖","strokeOrder":"/strokes/靖.png","info":{"kun":"やす.んじる","on":"セイ, ジョウ","meaning":"peaceful","examples":[{"word":"閑靖","reading":"かんせい","meaning":"tranquil, quiet"},{"word":"靖国","reading":"せいこく","meaning":"pacifying the nation"},{"word":"靖国","reading":"やすくに","meaning":"Yasukuni (Shrine)"},{"word":"靖国神社","reading":"やすくにじんじゃ","meaning":"Yasukuni Shrine"}]}}')}}]);
+//# sourceMappingURL=chunk-2d20f958.js.map

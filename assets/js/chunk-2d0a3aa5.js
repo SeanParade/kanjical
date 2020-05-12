@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a3aa5"],{"02c0":function(n){n.exports=JSON.parse('{"kanji":"秦","strokeOrder":"/strokes/秦.png","info":{"kun":"はた","on":"シン","meaning":"Manchu dynasty, name given to naturalized foreigners","examples":[{"word":"秦","reading":"しん","meaning":"Qin (dynasty of China; 221-206 BCE), Ch\'in"},{"word":"秦皮","reading":"とねりこ","meaning":"ash (tree)"},{"word":"先秦","reading":"せんしん","meaning":"pre-Qin period (of Chinese history)"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0a3aa5.js.map

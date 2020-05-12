@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d2f06"],{"5b47":function(n){n.exports=JSON.parse('{"kanji":"蒐","strokeOrder":"/strokes/蒐.png","info":{"kun":"あかね, あつ.まる, あつ.める","on":"シュウ","meaning":"gather","examples":[{"word":"蒐荷","reading":"しゅうか","meaning":"collection of cargo, cargo booking"},{"word":"切手蒐集","reading":"きってしゅうしゅう","meaning":"philately"},{"word":"蒐集","reading":"しゅうしゅう","meaning":"gathering up, collection, accumulation"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0d2f06.js.map

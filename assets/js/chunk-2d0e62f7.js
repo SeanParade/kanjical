@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e62f7"],{9857:function(n){n.exports=JSON.parse('{"kanji":"臟","strokeOrder":"/strokes/臟.png","info":{"kun":"はらわた","on":"ゾウ","meaning":"viscera, bowels","examples":[{"word":"脾臟","reading":"ひぞう","meaning":"spleen"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0e62f7.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e5829"],{9590:function(n){n.exports=JSON.parse('{"kanji":"伶","strokeOrder":"/strokes/伶.png","info":{"kun":"わざおぎ","on":"レイ, リョウ","meaning":"actor","examples":[{"word":"伶人","reading":"れいじん","meaning":"court musician, minstrel"},{"word":"伶俐","reading":"れいり","meaning":"cleverness, sagacity"},{"word":"伶官","reading":"れいかん","meaning":"court musician"},{"word":"伶優","reading":"れいゆう","meaning":"actor"}]}}')}}]);
+//# sourceMappingURL=chunk-2d0e5829.js.map
